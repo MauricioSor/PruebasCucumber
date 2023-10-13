@@ -9,3 +9,8 @@ Feature: Busqueda de cliente
     Example:
             | dni      | nombre   | condicion tributaria |
             | 41059898 | Mauricio | monotributista       |
+
+    Scenario: cliente no encontrado
+        Given una venta inicia
+        When ingreso el dni del cliente registrado
+        Then muestra que el cliente no esta registrado
