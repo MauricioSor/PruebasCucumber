@@ -3,6 +3,6 @@
 </br> 
 # Pruebas en Gherkin G-15
 
-## Pruebas realizdas con Cucumber utilizando integracion con Node.js
+## Pruebas realizadas con Cucumber utilizando integración con Node.js
 
 [Cucumber Documentacion](https://cucumber.io/docs)
