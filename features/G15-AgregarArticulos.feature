@@ -29,4 +29,4 @@ Feature: Agregar Artículo
 
     Example:
             | Articulo | Talle | Color | Precio | Stock | Cantidad | Sucursal |
-            | Remera   | L     | Roja  | $8000  | 2     | 2        | centro   |
+            | Remera   | L     | Roja  | $8000  | 2     | 3        | centro   |
